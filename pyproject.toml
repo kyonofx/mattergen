@@ -55,7 +55,6 @@ dependencies = [
 "torch>=2.4.1; sys_platform == 'darwin'",
 "torchvision>=0.19.1; sys_platform == 'darwin'",
 "torchaudio>=2.4.1; sys_platform == 'darwin'",
-"torch_cluster",
 "torch_geometric>=2.5",
 "torch_scatter",
 "torch_sparse",
