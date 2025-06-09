@@ -54,7 +54,7 @@ dependencies = [
 "sympy>=1.11.1",
 "torch==2.4.0", 
 "torchvision==0.19.1",
-"torchaudio==2.4.1",
+"torchaudio",
 "torch_cluster",
 "torch_geometric>=2.5",
 "torch_scatter",
